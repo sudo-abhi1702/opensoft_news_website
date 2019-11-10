@@ -1,0 +1,50 @@
+body{
+    height: 100%;
+    width: 100%;
+    
+  
+    padding-top: 100px;
+ 
+}
+.navbar-inverse{
+    padding: 1% 0;
+}
+.navbar-brand{
+    min-height: 55px;
+    padding: 0 15px 5px;
+}
+
+
+
+.padding{
+    padding: 40px;
+}
+.jumb{
+    background-color: teal;
+}
+footer{
+    clear: both;
+    padding: 10px;
+    background-color: teal;
+    color: white;
+    text-align: right;
+    height: 70px;
+}
+.bold{
+    font-size: 400%;
+    background-color: teal;
+    text-align: center;
+    height: 80px;
+    padding: 10px;
+
+    
+
+}
+
+    
+
+
+
+
+
+
